@@ -1,0 +1,5 @@
+2
+6
+RGBRGB
+6
+RGRRRR
